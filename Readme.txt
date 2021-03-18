@@ -30,7 +30,7 @@ Execution steps:
 
 Note: please make sure to download all the necessary packages
 
-Execution from scratch
+Execution from scratch -
 
 Functionality: 
 
