@@ -50,7 +50,7 @@ Note: before executing this file set the path for document extraction to your lo
 6. Once you are done with this execution you will be popping up with 
 Graphical user interface to search query.
 
-7.From that step onwards it is easily understandable and you can finally check for the results
+7.From that step onwards it is easily understandable and you can finally check for the results.
  
 
 
